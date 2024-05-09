@@ -1,5 +1,5 @@
  import java.util.*;;
- public class ReverseString{
+ public class countBit{
     public   String countBinary(int n ){
         StringBuffer sf = new StringBuffer("");
         while( n!=0){
@@ -29,7 +29,7 @@
     }
 
  public static void main(String[] args) {
-    ReverseString obj= new ReverseString();
+    countBit obj= new countBit();
     System.out.println("binary equivalent is ");
     System.out.println(obj.countBinary(13));
 
