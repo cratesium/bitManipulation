@@ -1,4 +1,5 @@
  import java.util.*;;
+ //code for decimal to  binary and binaery to decimal
  public class countBit{
     public   String countBinary(int n ){
         StringBuffer sf = new StringBuffer("");
